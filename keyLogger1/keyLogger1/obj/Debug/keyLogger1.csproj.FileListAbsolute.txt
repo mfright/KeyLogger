@@ -1,0 +1,9 @@
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\bin\Debug\keyLogger1.exe.config
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\bin\Debug\keyLogger1.exe
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\bin\Debug\keyLogger1.pdb
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.csprojResolveAssemblyReference.cache
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.Form1.resources
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.Properties.Resources.resources
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.csproj.GenerateResource.Cache
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.exe
+c:\users\_\documents\visual studio 2013\Projects\keyLogger1\keyLogger1\obj\Debug\keyLogger1.pdb
